@@ -31,7 +31,8 @@ a {
 }
 
 a:hover {
-  color: #f05f40;
+  /*color: #f05f40;*/
+  color: #e7c117;
 }
 
 h1,
